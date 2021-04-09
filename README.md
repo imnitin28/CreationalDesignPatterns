@@ -1,6 +1,6 @@
 # CreationalDesignPatterns
 DP Pluralsight
-Pluralsight course follow up
+course follow up
 Design patterns
 1. Singleton
 2. Prototype
